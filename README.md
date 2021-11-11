@@ -1,1 +1,1 @@
-# Precision Observables and Higgs Signals Effective passage to select BSM
+# Effective limits on single scalar extensions in the light of recent LHC data
