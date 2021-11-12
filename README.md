@@ -7,4 +7,4 @@ The matching results for 16 single scalar extensions of the SM including both pu
 Solid blue (dashed red/green) constant-probability-contours enclose the 68% and dot-dashed blue (dotted red/green) ones enclose the 95% credible regions, respectively. Coloured regions (blue/red/green) with variable density depict the high probability regions.
 2D plot files are named as {model name}_ {parameter_1}_ {parameter_2}.
 
-In 1D plots, median and 68% quantile are shown for point estimates, alongwith the histogram and PDF.
+In 1D plots, median and 68% credible intervals are shown for point estimates, alongwith the histogram and PDF.
