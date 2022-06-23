@@ -8,3 +8,5 @@ Solid blue (dashed red/green) constant-probability-contours enclose the 68% and 
 2D plot files are named as {model name}_ {parameter_1}_ {parameter_2}.
 
 In 1D plots, median and 68% credible intervals are shown for point estimates, alongwith the histogram and PDF.
+
+rgTHDM_d6.m file contains the SMEFT matching result for heavy scalar doublet model. The Wilson coefficients are runned down in the leading-log approximation from the matching scale to M_Z scale.
